@@ -1,0 +1,22 @@
+.greetings-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 50px;
+}
+
+.greetings-screen form input {
+  padding: 15px;
+  margin-top: 20px;
+  width: 500px;
+  height: 30px;
+  border: none;
+  border-bottom: 3px solid white;
+  background-color: transparent;
+  outline: none;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
